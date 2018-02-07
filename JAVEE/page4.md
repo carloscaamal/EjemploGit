@@ -14,3 +14,7 @@ Paso 1. Crear Proyecto.
 ![server](Imagenes/4.png)
 
 ![server](Imagenes/5.png)
+
+![server](Imagenes/borrar.png)
+
+
