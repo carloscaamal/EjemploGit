@@ -9,12 +9,12 @@ Este taller esta hecho para introducir a las personas a la creación de aplicaci
 En este taller se enseñara los elemtos basicos de programacion de Java EE.
 
 ## Temas
-* [Versiones de Java](/Talleres/Javascript/page2.md)
+* [Versiones de Java](/EjemploGit/JAVAEE/page2.md)
 
-* [Enterno De Desarrollo](/Talleres/Javascript/page3.md)
+* [Enterno De Desarrollo](/EjemploGit/JAVAEE/page2.md)
 
-* [Usos](/Talleres/Javascript/page4.md)
+* [Usos](/EjemploGit/JAVAEE/page2.md)
 
-* [Ejercicios](/Talleres/Javascript/page5.md)
+* [Ejercicios](/EjemploGit/JAVAEE/page2.md)
 
 ## [Siguiente](page2.md)
