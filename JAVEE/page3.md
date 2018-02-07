@@ -15,4 +15,4 @@ Abrimos el navegador con lo siguiente: localhost:8080
 
 si nos aparece los siguiente quiere decir que el servidor esta funcionando de manera correcta.
 
-![1](Imagenes/3.png)
+## [Siguiente](page3.md)
