@@ -15,7 +15,7 @@ Paso 1. Crear Proyecto.
 
 ![server](Imagenes/5.png)
 
-Paso 2. Crear Proyecto.
+Paso 2. Borrar el archivo index.html
 
 ![server](Imagenes/borrar.png)
 
