@@ -6,3 +6,5 @@ medio de etiquetas (tags).
 Paso 1. Crear Proyecto.
 
 ![server](Imagenes/1.png)
+![server](Imagenes/2.png)
+![server](Imagenes/3.png)
