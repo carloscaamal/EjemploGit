@@ -11,10 +11,10 @@ En este taller se enseñara los elemtos basicos de programacion de Java EE.
 ## Temas
 * [Versiones de Java](/EjemploGit/JAVAEE/page2.md)
 
-* [Enterno De Desarrollo](/EjemploGit/JAVAEE/page2.md)
+* [Enterno De Desarrollo](/EjemploGit/JAVAEE/page3.md)
 
-* [Usos](/EjemploGit/JAVAEE/page2.md)
+* [Usos](/EjemploGit/JAVAEE/page4.md)
 
-* [Ejercicios](/EjemploGit/JAVAEE/page2.md)
+* [Ejercicios](/EjemploGit/JAVAEE/page4.md)
 
 ## [Siguiente](page2.md)
