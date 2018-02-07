@@ -14,6 +14,4 @@ En este taller se enseñara los elemtos basicos de programacion de Java EE.
 * [Enterno De Desarrollo](/EjemploGit/JAVAEE/page3.md)
 
 
-## [Siguiente](page2.md)
-
 .
