@@ -5,4 +5,4 @@ Como primer paso es necesario tener instalado java, el jdk, un IDE.
 ## Netbeans
 
 En en este taller se utilizara Netbeans 
-![1](Imagenes/1.png)
+![1](Imagenes/3.png)
