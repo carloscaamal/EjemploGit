@@ -9,6 +9,8 @@ En en este taller se utilizara Netbeans en su edición Java EE como IDE.
 Abrir el Netbeans. Por defecto la edición Netbeans Java EE nos trae los servidos GlassFish Server Open Source Edition 4.1.1
 Y Apache Tomcat 8.0.27. Verificamos el servidor GlassFish hacemos los siguiente:
 
+![server](Imagenes/11.png)
+
 Abrimos el navegador con lo siguiente: localhost:8080
 
 ![server](Imagenes/server.png)
