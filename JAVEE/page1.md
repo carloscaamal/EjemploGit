@@ -13,6 +13,6 @@ En este taller se enseñara los elemtos basicos de programacion de Java EE.
 
 * [Enterno De Desarrollo](/JAVEE/page3.md)
 
-* [Hola Mundo](/JAVEE/page4.md)
+* [Hola Mundo JSP](/JAVEE/page4.md)
 
 ## [Siguiente](page2.md)
